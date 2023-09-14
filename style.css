@@ -58,4 +58,13 @@ h1 span:nth-child(7){
 
 @media (max-width: 480px){
     h1{font-size: 1.3em;}
+    h1 span:nth-child(1){
+        animation-delay: 1.2s;
+    }
+    h1 span:nth-child(6){
+        animation-delay: 3.8s;
+    }
+    h1 span:nth-child(7){
+        animation-delay: 4.1s;
+    }
 }
